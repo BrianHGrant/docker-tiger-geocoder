@@ -1,0 +1,5 @@
+\t
+\a
+\o /gisdata/oregon.sh
+SELECT loader_generate_script(ARRAY['OR'], 'sh');
+\o

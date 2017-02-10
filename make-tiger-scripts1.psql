@@ -1,0 +1,5 @@
+\t
+\a
+\o /gisdata/nation.sh
+SELECT loader_generate_nation_script('sh');
+\o
